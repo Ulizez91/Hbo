@@ -1,0 +1,38 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="https://i.blogs.es/f4fa98/star-channel-llega-a-mexico/450_1000.jpg" group-title="STAR PREMIUM PACK",STAR CHANNEL
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141724
+#EXTINF:-1 tvg-id="" tvg-name="STAR ACTION" tvg-logo="https://i.ibb.co/cy5F5cR/5d2356d1-7bd2-4d7e-b4e0-fc3a8552488c.jpg" group-title="STAR PREMIUM PACK",STAR ACTION
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141725
+#EXTINF:-1 tvg-id="" tvg-name="STAR CINEMA" tvg-logo="https://i.ibb.co/pxYNgNH/4ba85485-602b-4eb4-8e64-14f65dfae3c0.jpg" group-title="STAR PREMIUM PACK",STAR CINEMA
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141726
+#EXTINF:-1 tvg-id="" tvg-name="STAR CLASSICS" tvg-logo="https://i.ibb.co/Ht7PckN/ed424c98-6d06-4ab4-92ca-cbb7d16c6c75.jpg" group-title="STAR PREMIUM PACK",STAR CLASSICS
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141727
+#EXTINF:-1 tvg-id="" tvg-name="STAR COMEDY" tvg-logo="https://i.ibb.co/nRtQqkK/2cb9c86e-95b6-4059-94da-09a451aaf12a.jpg" group-title="STAR PREMIUM PACK",STAR COMEDY
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141728
+#EXTINF:-1 tvg-id="" tvg-name="STAR FUN" tvg-logo="https://i.ibb.co/vQ0pV9X/6d5480b9-47f8-4749-ac30-2f9a81444a34.jpg" group-title="STAR PREMIUM PACK",STAR FUN
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141729
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS" tvg-logo="https://i.ibb.co/5RL1zhd/c0dbf679-61e4-4258-92e0-b5d31fd1c234.jpg" group-title="STAR PREMIUM PACK",STAR HITS
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141730
+#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE" tvg-logo="https://i.ibb.co/7grmbKz/fd8e3d07-953c-4951-97cf-d57284c3b701.jpg" group-title="STAR PREMIUM PACK",STAR LIFE
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141731
+#EXTINF:-1 tvg-id="" tvg-name="STAR SERIES" tvg-logo="https://i.ibb.co/hRPJK6B/465b2563-da99-4bb3-ab97-db910dfb052a.jpg" group-title="STAR PREMIUM PACK",STAR SERIES
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141732
+#EXTINF:-1 tvg-id="" tvg-name="STAR CLASSIC" tvg-logo="https://i.ibb.co/rygPcf1/f932332f-0f30-43cb-9de4-15e6629e3e52.jpg" group-title="STAR PREMIUM PACK",STAR CLASSIC
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141774
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.imgur.com/fJxaYgH.png" group-title="HBO PREMIUM PACK",HBO
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141739
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://i.imgur.com/AyAPCgm.png" group-title="HBO PREMIUM PACK",HBO 2
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141740
+#EXTINF:-1 tvg-id="" tvg-name="HBO+" tvg-logo="https://i.imgur.com/AElGmKm.png" group-title="HBO PREMIUM PACK",HBO+
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141741
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/SBHVRcm.png" group-title="HBO PREMIUM PACK",HBO FAMILY
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141742
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://i.imgur.com/zQPhbT3.png" group-title="HBO PREMIUM PACK",HBO MUNDI
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141743
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="https://i.imgur.com/G6noqld.png" group-title="HBO PREMIUM PACK",HBO POP
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141744
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/gKfF7Ze.png" group-title="HBO PREMIUM PACK",HBO SIGNATURE
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141745
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="https://i.ibb.co/mSB5mSZ/Xtreme-0.jpg" group-title="HBO PREMIUM PACK",HBO XTREME
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141746
